@@ -1,0 +1,42 @@
+
+body {
+    background: #595647 
+}
+h1 , h3{
+    color: #9AC5FA 
+}
+h1{
+    font-family: sans-serif ; 
+}
+h5 {
+    color:white
+}
+.inline {
+    color: yellow
+}
+
+hr , li{
+    color: white
+}
+p {
+    color: white ;
+    font-style: italic;
+}
+
+a {
+  color: red;
+  text-decoration: underline
+}
+.box{
+    width:50%;
+    height: 50% ; 
+    float: left ; 
+}
+
+.box h5{
+    vertical-align: bottom ; 
+    display: inline;
+}
+
+
+
